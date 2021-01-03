@@ -5,7 +5,7 @@ description: "creator samantha의 공간"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /creator
-google_analytics: '257631628'
+google_analytics: 'G-5VXKEVZMDD'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
